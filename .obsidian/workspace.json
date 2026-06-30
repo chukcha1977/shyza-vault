@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "162a90bb1339190f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee3334470a3166e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e5b3a047df9c7d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8aebd7af278875c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bf061f50836a9d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3cac3952dd7abed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6197718faecce711",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"url\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "47fef864008e240e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.505859375
+  },
+  "right": {
+    "id": "32e753af118636d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c62c0d5f00a823b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb7f735f66ecabca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "51f47f63c910af35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "56a5666810ab7d4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "3ab8293084c0cf92",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "657bdfcbbacd582f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "1e5b3a047df9c7d1",
+  "lastOpenFiles": [
+    "sources/monitoring/2026-06-18.md",
+    "sources/monitoring/2026-06-17.md",
+    "projects/site/найдено-в-интернете/monitoring-2026-06-15.md",
+    "Пеноизол-Черноземье.md",
+    "raw/README.md",
+    "_templates/project.md",
+    "raw/articles/utepliteli-sravnenie.md",
+    "raw/articles/uteplit-dom-samostoyatelno.md",
+    "raw/articles/uteplenie-sten.md",
+    "raw/articles/uteplenie-cherdaka.md",
+    "raw/articles/services.md",
+    "raw/articles/perekrytiya.md",
+    "raw/articles/penoizol-about.md",
+    "raw/articles/oborudovanie.md",
+    "raw/articles/ispytanie-goryuchest.md",
+    "raw/articles/faq.md",
+    "raw/articles/blog.md",
+    "raw/articles/contact.md",
+    "raw/articles/about.md",
+    "raw/articles/2026-06-06-infinite-brain-ai-os-analysis.md",
+    "raw/articles",
+    "projects/site/найдено-в-интернете",
+    "raw/monitoring.md",
+    "sources/2026-06-06-infinite-brain-ai-os-analysis.md",
+    "sources/monitoring",
+    "raw/monitoring/monitoring-2026-06-08.md",
+    "raw/monitoring/2026-06-14.md",
+    "raw/monitoring/2026-06-13.md",
+    "raw/monitoring/2026-06-12.md",
+    "raw/monitoring",
+    "projects/stiks",
+    "projects/shy",
+    "entities/competitors",
+    "plans",
+    "Без названия.canvas",
+    "Без названия.base",
+    "entities/Без названия.canvas",
+    "projects/site",
+    "Без названия 1.canvas"
+  ]
+}

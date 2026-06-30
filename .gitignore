@@ -1,0 +1,12 @@
+# Obsidian vault .gitignore
+
+# Случайные пустые артефакты / сироты
+url.md
+node.md
+page.md
+temp.md
+*.base
+
+# macOS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/chukcha1977/obsidian-shyza-vault.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
